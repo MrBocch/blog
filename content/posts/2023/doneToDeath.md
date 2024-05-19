@@ -41,7 +41,7 @@ With pen and paper? The most basic text editor would catch this.
 While im here let me talk about this.
 
 {{< rawhtml >}}
-<img src="img/codeshirt.jpg" style="margin: 0 auto;">
+<img src="/blog/img/codeshirt.jpg" style="margin: 0 auto;">
 {{< /rawhtml >}}
 
 Who wears this stuff? The code always manages to be wrong somehow.
