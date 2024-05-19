@@ -6,7 +6,27 @@
     <description>Recent content on MrBocch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jan 2024 16:00:17 -0600</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 May 2024 00:56:12 -0600</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>//localhost:1313/posts/2024/test/</link>
+      <pubDate>Sun, 19 May 2024 00:56:12 -0600</pubDate>
+      
+      <guid>//localhost:1313/posts/2024/test/</guid>
+      <description>Hello world i want images to load from
+jorge.sh/blog
+it does so for css
+jorge.sh/blog/style.css
+but not for images</description>
+      <content>&lt;h1 id=&#34;hello-world&#34;&gt;Hello world&lt;/h1&gt;
+&lt;p&gt;i want images to load from&lt;/p&gt;
+&lt;p&gt;jorge.sh/blog&lt;/p&gt;
+&lt;p&gt;it does so for css&lt;/p&gt;
+&lt;p&gt;jorge.sh/blog/style.css&lt;/p&gt;
+&lt;p&gt;but not for images&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>cd glitch?????</title>
       <link>//localhost:1313/posts/2024/cd_glitch/</link>
