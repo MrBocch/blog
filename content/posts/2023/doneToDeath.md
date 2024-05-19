@@ -55,4 +55,4 @@ but I believe these sorts of memes gives the wrong idea to people that might be 
 
 Relatable humor is the worst tragedy of the 21st century.
 
-{{< figure src="img/beatup.gif" alt="" position="center" style="border-radius: 0px;" caption="Me WHEN I find the creator of these sorts of memes" captionPosition="right" captionStyle="color: black;" >}}
+{{< figure src="/blog/img/beatup.gif" alt="" position="center" style="border-radius: 0px;" caption="Me WHEN I find the creator of these sorts of memes" captionPosition="right" captionStyle="color: black;" >}}
