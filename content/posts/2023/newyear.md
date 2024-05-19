@@ -56,5 +56,5 @@ I have other goals outside of programming but I want to keep those for my self ð
 Anyways here is for a good year.
 
 {{< rawhtml >}}
-<img src="img/celebration.gif"; style='margin: 0 auto;'>
+<img src="/blog/img/celebration.gif"; style='margin: 0 auto;'>
 {{< /rawhtml >}}

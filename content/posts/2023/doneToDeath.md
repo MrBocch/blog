@@ -28,7 +28,7 @@ This is bad because vim is so simple and amazing with very minimal practice.
 ### 2. Forgot semicolon
 
 {{< rawhtml >}}
-<img src="img/forgorSemi.jpg" style="margin: 0 auto;">
+<img src="/blog/img/forgorSemi.jpg" style="margin: 0 auto;">
 {{< /rawhtml >}}
 
 This one irks me the most. What, do you code in notepad?

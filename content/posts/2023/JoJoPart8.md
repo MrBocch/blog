@@ -34,7 +34,7 @@ Let me just list of some of these previous jojo main antoganist and you will see
 - **Yoshikage Kira**: Instant fan favorite Yoshikage Kira is a psycho killer, with a stand with the ability to blow shit up + has a "stand awekaning"
 
 {{< rawhtml >}}
-<img src="img/killerQueen.png" width=70% style="margin: 0 auto;">
+<img src="/blog/img/killerQueen.png" width=70% style="margin: 0 auto;">
 <br>
 <br>
 <br>
@@ -69,5 +69,5 @@ Maybe its not fair to part 8 to complain about an exiting plot considering it fo
 Its just very bland in general and hard to care about.
 
 {{< rawhtml >}}
-<img src="img/shrug.gif" width=70% style="margin: 0 auto;">
+<img src="/blog/img/shrug.gif" width=70% style="margin: 0 auto;">
 {{< /rawhtml >}}

@@ -22,7 +22,7 @@ I cant understand how anybody thinks this looks good.
 Its not because of a lack of effort, its the style. It doesn't fit with a street fighter game, the characters are way too reflective, everyone makes a stupid looking faces, plus the ui is ugly, the music sucks, everything sucks.
 
 {{< rawhtml >}}
-<img src="img/juri.png" style="margin-left:auto; margin-right:auto;">
+<img src="/blog/img/juri.png" style="margin-left:auto; margin-right:auto;">
 {{< /rawhtml >}}
 
 There are too many colors its distracting. Just look at Street fighter 4, its full of life.

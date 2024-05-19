@@ -14,26 +14,27 @@ color = "orange" #color from the theme settings
 +++
 
 {{< rawhtml >}}
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
-<img src="img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
+<img src="/blog/img/dancingSkelly.gif" style="margin: 0 auto; margin-bottom: 9px; width: 100%;">
 
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
+
 <script>
 console.log(
 ".**\_,**\_****,**\_**Happy*Halloween\_\_\_\_." + "\n| ./( )\\. | |" + "\n| ) \\/\\*/\\/ ( | |" + "\n| `)  (^Y^)  (` \\(|)/ |" + "\n| `),-(~)-,(` --(\")-- |" + "\n| '\"' \\\\ /`\\            |"
