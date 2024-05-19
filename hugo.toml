@@ -6,7 +6,7 @@
 
 # why no https on blog?
 
-baseURL = 'mrbocch.github.io/blog'
+baseURL = 'mrbocch.github.io'
 languageCode = 'en-us'
 title = 'MrBocch'
 theme = "terminal"
