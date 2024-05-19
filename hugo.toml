@@ -4,6 +4,8 @@
 # write articule
 # authenticate user so that you could push to repository
 
+# why no https on blog?
+
 baseURL = 'mrbocch.github.io/blog'
 languageCode = 'en-us'
 title = 'MrBocch'
