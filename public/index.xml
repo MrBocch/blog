@@ -6,27 +6,7 @@
     <description>Recent content on MrBocch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 May 2024 00:56:12 -0600</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>//localhost:1313/posts/2024/test/</link>
-      <pubDate>Sun, 19 May 2024 00:56:12 -0600</pubDate>
-      
-      <guid>//localhost:1313/posts/2024/test/</guid>
-      <description>Hello world i want images to load from
-jorge.sh/blog
-it does so for css
-jorge.sh/blog/style.css
-but not for images</description>
-      <content>&lt;h1 id=&#34;hello-world&#34;&gt;Hello world&lt;/h1&gt;
-&lt;p&gt;i want images to load from&lt;/p&gt;
-&lt;p&gt;jorge.sh/blog&lt;/p&gt;
-&lt;p&gt;it does so for css&lt;/p&gt;
-&lt;p&gt;jorge.sh/blog/style.css&lt;/p&gt;
-&lt;p&gt;but not for images&lt;/p&gt;
-</content>
-    </item>
-    
+    <lastBuildDate>Fri, 12 Jan 2024 16:00:17 -0600</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cd glitch?????</title>
       <link>//localhost:1313/posts/2024/cd_glitch/</link>
@@ -41,7 +21,7 @@ was to learn rust so that I could build apps with &lt;a href=&#34;https://tauri.
 &lt;p&gt;So I am working my way thrue the rust book when i encounter something very funny.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;//localhost:1313/img/cd_glitch.png&#34;   style=&#34;border-radius: 0px;&#34;  /&gt;
+    &lt;img src=&#34;//localhost:1313/blog/img/cd_glitch.png&#34;   style=&#34;border-radius: 0px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;center&#34;  style=&#34;color: black;&#34; &gt;I use linux btw&lt;/figcaption&gt;
     
@@ -76,10 +56,10 @@ side tangent from learning rust was fun.&lt;/p&gt;
     
     <item>
       <title>Before the year ends</title>
-      <link>//localhost:1313/posts/2023/test/</link>
+      <link>//localhost:1313/posts/2023/newyear/</link>
       <pubDate>Sun, 31 Dec 2023 23:15:17 -0600</pubDate>
       
-      <guid>//localhost:1313/posts/2023/test/</guid>
+      <guid>//localhost:1313/posts/2023/newyear/</guid>
       <description>2023 I dont like to make a big deal out of the earth making a full rotation around the sun, but I like to reflect on how is the me from January 1st different from the me of today.
 I with out a doubt know more about programming than I did then.
 I learned and fell in love with ruby, I understand OOP more than i did then.
@@ -101,16 +81,16 @@ today.&lt;/p&gt;
 &lt;p&gt;They are several books that I must read this year, &lt;strong&gt;and actually finish them rather then leave them half read&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Get Programming with Haskell&lt;/strong&gt;&lt;/em&gt;, Will Kurt&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Get Programming with Haskell&lt;/em&gt;&lt;/strong&gt;, Will Kurt&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;SICP&lt;/strong&gt;&lt;/em&gt; (im really exited about this one, will even follow along with the course on &lt;a href=&#34;https://www.youtube.com/watch?v=-J_xL4IGhJA&amp;list=PLE18841CABEA24090&#34;&gt;youtube&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;SICP&lt;/em&gt;&lt;/strong&gt; (im really exited about this one, will even follow along with the course on &lt;a href=&#34;https://www.youtube.com/watch?v=-J_xL4IGhJA&amp;list=PLE18841CABEA24090&#34;&gt;youtube&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;The Rust Book&lt;/strong&gt;&lt;/em&gt; (I want to try out tauri framework)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The Rust Book&lt;/em&gt;&lt;/strong&gt; (I want to try out tauri framework)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Crafting Interpreters&lt;/strong&gt;&lt;/em&gt;, Robert Nystrom&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Crafting Interpreters&lt;/em&gt;&lt;/strong&gt;, Robert Nystrom&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Any book on APL, it looks soo interesting&lt;/p&gt;
@@ -120,7 +100,7 @@ today.&lt;/p&gt;
 &lt;p&gt;I have other goals outside of programming but I want to keep those for my self 😊.&lt;/p&gt;
 &lt;p&gt;Anyways here is for a good year.&lt;/p&gt;
 
-    &lt;img src=&#34;//localhost:1313/img/celebration.gif&#34;; style=&#39;margin: 0 auto;&#39;&gt;
+&lt;img src=&#34;img/celebration.gif&#34;; style=&#39;margin: 0 auto;&#39;&gt;
 
 </content>
     </item>
@@ -133,43 +113,39 @@ today.&lt;/p&gt;
       <guid>//localhost:1313/posts/2023/spooky/</guid>
       <description> </description>
       <content>
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
-   &lt;img src=&#34;//localhost:1313/img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt; 
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
+&lt;img src=&#34;img/dancingSkelly.gif&#34; style=&#34;margin: 0 auto; margin-bottom: 9px; width: 100%;&#34;&gt;
 
 
 
-    &lt;script&gt;
-        console.log(
-            &#34;.___,_______,_____Happy_Halloween____.&#34;
-         + &#34;\n| ./(       )\\.        |             |&#34;
-         + &#34;\n| )  \\/\\_/\\/  (        |             |&#34;
-         + &#34;\n| `)  (^Y^)  (`      \\(|)/           |&#34;
-         + &#34;\n|  `),-(~)-,(`      --(\&#34;)--          |&#34;
-         + &#34;\n|      &#39;\&#34;&#39;      \\\\    /`\\            |&#34;
+&lt;script&gt;
+console.log(
+&#34;.**\_,**\_****,**\_**Happy*Halloween\_\_\_\_.&#34; + &#34;\n| ./( )\\. | |&#34; + &#34;\n| ) \\/\\*/\\/ ( | |&#34; + &#34;\n| `)  (^Y^)  (` \\(|)/ |&#34; + &#34;\n| `),-(~)-,(` --(\&#34;)-- |&#34; + &#34;\n| &#39;\&#34;&#39; \\\\ /`\\            |&#34;
          + &#34;\n|          .-&#39;```^```&#39;-.    ,     ,  |&#34;
          + &#34;\n|         /   (\\ __ /)  \\   )\\___/(  |&#34;
          + &#34;\n|         |    ` \\/ `   |  {(@)v(@)} |&#34;
          + &#34;\n|         \\    \\____/   /   {|~~~|}  |&#34;
          + &#34;\n|          `&#39;-.......-&#39;`    {/^^^\\}  |&#34;
-         + &#34;\n.___ldb______________________`m-m`___.&#34;)
-        
+         + &#34;\n.___ldb______________________`m-m`\_\_\_.&#34;)
+
         console.log(&#34;i wish i could autoplay audio but browser wont let me&#34;)
-        
+
     &lt;/script&gt;
+
 
 </content>
     </item>
@@ -187,11 +163,11 @@ today.&lt;/p&gt;
 we have to continue to hear the same joke over and over. And they&amp;rsquo;re not even funny, at &lt;strong&gt;all&lt;/strong&gt;, and potentially harmful&lt;/p&gt;
 &lt;h3 id=&#34;1-cant-exit-vim&#34;&gt;1. Cant exit vim&lt;/h3&gt;
 &lt;p&gt;Maybe this bothers me the most because I &lt;strong&gt;loveee&lt;/strong&gt; VIM motions (RIP), but cmon.
-Nobody is born knowing, but its not like its easy to enter vim by complete accident so there&amp;rsquo;s no excuse not knowing &lt;em&gt;&lt;strong&gt;literally pressing 3 buttons&lt;/strong&gt;&lt;/em&gt; if you enter vim somehow.&lt;/p&gt;
+Nobody is born knowing, but its not like its easy to enter vim by complete accident so there&amp;rsquo;s no excuse not knowing &lt;strong&gt;&lt;em&gt;literally pressing 3 buttons&lt;/em&gt;&lt;/strong&gt; if you enter vim somehow.&lt;/p&gt;
 &lt;p&gt;This is bad because vim is so simple and amazing with very minimal practice.&lt;/p&gt;
 &lt;h3 id=&#34;2-forgot-semicolon&#34;&gt;2. Forgot semicolon&lt;/h3&gt;
 
-   &lt;img src=&#34;//localhost:1313/img/forgorSemi.jpg&#34; style=&#34;margin: 0 auto;&#34;&gt; 
+&lt;img src=&#34;img/forgorSemi.jpg&#34; style=&#34;margin: 0 auto;&#34;&gt;
 
 &lt;p&gt;This one irks me the most. What, do you code in notepad?
 With pen and paper? The most basic text editor would catch this.&lt;/p&gt;
@@ -199,7 +175,7 @@ With pen and paper? The most basic text editor would catch this.&lt;/p&gt;
 &lt;h3 id=&#34;3-code-merch&#34;&gt;3. Code merch&lt;/h3&gt;
 &lt;p&gt;While im here let me talk about this.&lt;/p&gt;
 
-   &lt;img src=&#34;//localhost:1313/img/codeshirt.jpg&#34; style=&#34;margin: 0 auto;&#34;&gt; 
+&lt;img src=&#34;img/codeshirt.jpg&#34; style=&#34;margin: 0 auto;&#34;&gt;
 
 &lt;p&gt;Who wears this stuff? The code always manages to be wrong somehow.&lt;/p&gt;
 &lt;h3 id=&#34;4-ranking-languages-by-difficulty&#34;&gt;4. Ranking languages by difficulty&lt;/h3&gt;
@@ -209,7 +185,7 @@ but I believe these sorts of memes gives the wrong idea to people that might be 
 &lt;p&gt;Relatable humor is the worst tragedy of the 21st century.&lt;/p&gt;
 
   &lt;figure class=&#34;center&#34; &gt;
-    &lt;img src=&#34;//localhost:1313/img/beatup.gif&#34;   style=&#34;border-radius: 0px;&#34;  /&gt;
+    &lt;img src=&#34;img/beatup.gif&#34;   style=&#34;border-radius: 0px;&#34;  /&gt;
     
       &lt;figcaption class=&#34;right&#34;  style=&#34;color: black;&#34; &gt;Me WHEN I find the creator of these sorts of memes&lt;/figcaption&gt;
     
@@ -241,38 +217,38 @@ JoJolion very much lacks this.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Dio Brando&lt;/strong&gt;: part 1 and 3 include Dio (a vampire demon) using all sort of evil acts to take over the world.&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;img src=&#34;https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftruth.bahamut.com.tw%2Fs01%2F201907%2F23d2256842dd1caa67c6aaba55eab61e.JPG&amp;f=1&amp;nofb=1&amp;ipt=1a2013ffad1d4ce7da7e99d2366ec5cc57cb37135a61ae812f4118f88f57230e&amp;ipo=images&#34;&gt;
+&lt;img src=&#34;https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftruth.bahamut.com.tw%2Fs01%2F201907%2F23d2256842dd1caa67c6aaba55eab61e.JPG&amp;f=1&amp;nofb=1&amp;ipt=1a2013ffad1d4ce7da7e99d2366ec5cc57cb37135a61ae812f4118f88f57230e&amp;ipo=images&#34;&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Yoshikage Kira&lt;/strong&gt;: Instant fan favorite Yoshikage Kira is a psycho killer, with a stand with the ability to blow shit up + has a &amp;ldquo;stand awekaning&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 
-    &lt;img src=&#34;//localhost:1313/img/killerQueen.png&#34; width=70% style=&#34;margin: 0 auto;&#34;&gt;
-    &lt;br&gt;
-    &lt;br&gt;
-    &lt;br&gt;
+&lt;img src=&#34;img/killerQueen.png&#34; width=70% style=&#34;margin: 0 auto;&#34;&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
 
 &lt;p&gt;So who does JoJolion have as their main antagonist?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tooru&lt;/strong&gt; who is entirely motivated because a girl was nice to him once I guess.&lt;/p&gt;
 
-    &lt;img src=&#34;https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.jojowiki.com%2Fimages%2Fthumb%2F5%2F5d%2Flatest%2F20210306121521%2FToru_yasuho.png%2F400px-Toru_yasuho.png&amp;f=1&amp;nofb=1&amp;ipt=e753c4266f4868b775dff49d1b489283be91976b297e0a293c217599b707b585&amp;ipo=images&#34; width=70% style=&#34;margin: 0 auto;&#34;&gt;
-    &lt;br&gt;
-    &lt;br&gt;
-    &lt;br&gt;
+&lt;img src=&#34;https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.jojowiki.com%2Fimages%2Fthumb%2F5%2F5d%2Flatest%2F20210306121521%2FToru_yasuho.png%2F400px-Toru_yasuho.png&amp;f=1&amp;nofb=1&amp;ipt=e753c4266f4868b775dff49d1b489283be91976b297e0a293c217599b707b585&amp;ipo=images&#34; width=70% style=&#34;margin: 0 auto;&#34;&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
 
 &lt;h2 id=&#34;2-severe-lack-of-jobro&#34;&gt;2. Severe lack of JoBro&lt;/h2&gt;
 &lt;p&gt;How can you have a JoJo story without memorable side characters like, Kakyoin, Pierre Polnareff, Giorno&amp;rsquo;s whole gang, Pierre Polnareff as a turtle, Zeppelli, Caesar or Gyro Zeppeli. Reading part 7 you quickly realize there is no JoBro, just the most unlikable guy every conceived with absolutely no redeeming qualities that just hangs out sometimes.&lt;/p&gt;
 
-    &lt;img src=&#34;https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F48%2F69%2Fa6%2F4869a6e79210b61f73be87f758a5d127.jpg&amp;f=1&amp;nofb=1&amp;ipt=18029acd92eb98f796e705b0a9fb5bcc1ce587b710a3ae6b0890bc446dca9709&amp;ipo=images&#34; width=70% style=&#34;margin: 0 auto;&#34;&gt;
-    &lt;br&gt;
-    &lt;br&gt;
-    &lt;br&gt;
+&lt;img src=&#34;https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F48%2F69%2Fa6%2F4869a6e79210b61f73be87f758a5d127.jpg&amp;f=1&amp;nofb=1&amp;ipt=18029acd92eb98f796e705b0a9fb5bcc1ce587b710a3ae6b0890bc446dca9709&amp;ipo=images&#34; width=70% style=&#34;margin: 0 auto;&#34;&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
 
 &lt;h2 id=&#34;3-plot-bro&#34;&gt;3. Plot bro?&lt;/h2&gt;
 &lt;p&gt;Maybe its not fair to part 8 to complain about an exiting plot considering it follows up Steel Ball Run.&lt;/p&gt;
 &lt;p&gt;Its just very bland in general and hard to care about.&lt;/p&gt;
 
-    &lt;img src=&#34;//localhost:1313/img/shrug.gif&#34; width=70% style=&#34;margin: 0 auto;&#34;&gt;
+&lt;img src=&#34;img/shrug.gif&#34; width=70% style=&#34;margin: 0 auto;&#34;&gt;
 
 </content>
     </item>
@@ -298,7 +274,7 @@ There are too many colors its distracting. Just look at Street fighter 4, its fu
 
 &lt;p&gt;Its not because of a lack of effort, its the style. It doesn&amp;rsquo;t fit with a street fighter game, the characters are way too reflective, everyone makes a stupid looking faces, plus the ui is ugly, the music sucks, everything sucks.&lt;/p&gt;
 
-    &lt;img src=&#34;//localhost:1313/img/juri.png&#34; style=&#34;margin-left:auto; margin-right:auto;&#34;&gt;
+&lt;img src=&#34;img/juri.png&#34; style=&#34;margin-left:auto; margin-right:auto;&#34;&gt;
 
 &lt;p&gt;There are too many colors its distracting. Just look at Street fighter 4, its full of life.&lt;/p&gt;
 &lt;p&gt;Less is more.&lt;/p&gt;

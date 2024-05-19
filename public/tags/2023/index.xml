@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 31 Dec 2023 23:15:17 -0600</lastBuildDate><atom:link href="//localhost:1313/tags/2023/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Before the year ends</title>
-      <link>//localhost:1313/posts/2023/test/</link>
+      <link>//localhost:1313/posts/2023/newyear/</link>
       <pubDate>Sun, 31 Dec 2023 23:15:17 -0600</pubDate>
       
-      <guid>//localhost:1313/posts/2023/test/</guid>
+      <guid>//localhost:1313/posts/2023/newyear/</guid>
       <description>2023 I dont like to make a big deal out of the earth making a full rotation around the sun, but I like to reflect on how is the me from January 1st different from the me of today.
 I with out a doubt know more about programming than I did then.
 I learned and fell in love with ruby, I understand OOP more than i did then.
@@ -34,16 +34,16 @@ today.&lt;/p&gt;
 &lt;p&gt;They are several books that I must read this year, &lt;strong&gt;and actually finish them rather then leave them half read&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Get Programming with Haskell&lt;/strong&gt;&lt;/em&gt;, Will Kurt&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Get Programming with Haskell&lt;/em&gt;&lt;/strong&gt;, Will Kurt&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;SICP&lt;/strong&gt;&lt;/em&gt; (im really exited about this one, will even follow along with the course on &lt;a href=&#34;https://www.youtube.com/watch?v=-J_xL4IGhJA&amp;list=PLE18841CABEA24090&#34;&gt;youtube&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;SICP&lt;/em&gt;&lt;/strong&gt; (im really exited about this one, will even follow along with the course on &lt;a href=&#34;https://www.youtube.com/watch?v=-J_xL4IGhJA&amp;list=PLE18841CABEA24090&#34;&gt;youtube&lt;/a&gt;)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;The Rust Book&lt;/strong&gt;&lt;/em&gt; (I want to try out tauri framework)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;The Rust Book&lt;/em&gt;&lt;/strong&gt; (I want to try out tauri framework)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Crafting Interpreters&lt;/strong&gt;&lt;/em&gt;, Robert Nystrom&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Crafting Interpreters&lt;/em&gt;&lt;/strong&gt;, Robert Nystrom&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Any book on APL, it looks soo interesting&lt;/p&gt;
@@ -53,7 +53,7 @@ today.&lt;/p&gt;
 &lt;p&gt;I have other goals outside of programming but I want to keep those for my self 😊.&lt;/p&gt;
 &lt;p&gt;Anyways here is for a good year.&lt;/p&gt;
 
-    &lt;img src=&#34;//localhost:1313/img/celebration.gif&#34;; style=&#39;margin: 0 auto;&#39;&gt;
+&lt;img src=&#34;img/celebration.gif&#34;; style=&#39;margin: 0 auto;&#39;&gt;
 
 </content>
     </item>

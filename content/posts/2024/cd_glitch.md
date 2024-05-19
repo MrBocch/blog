@@ -18,7 +18,7 @@ was to learn rust so that I could build apps with [Tauri](https://tauri.app/).
 
 So I am working my way thrue the rust book when i encounter something very funny.
 
-{{< figure src="/img/cd_glitch.png"
+{{< figure src="/blog/img/cd_glitch.png"
    alt="" position="center"
    style="border-radius: 0px;"
    caption="I use linux btw"
