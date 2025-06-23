@@ -6,9 +6,9 @@
 
 # why no https on blog?
 
-baseURL = 'mrbocch.github.io'
+baseURL = 'jorge.sh'
 languageCode = 'en-us'
-title = 'MrBocch'
+title = 'jorge.sh'
 theme = "terminal"
 
 # Add it only if you keep the theme in the `themes` directory.
@@ -77,7 +77,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "MrBocch"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "my blog"
     owner = ""
     keywords = ""
     copyright = ""

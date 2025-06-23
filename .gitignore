@@ -1,4 +1,8 @@
+# markdown/hugo guide, i should have set it to ignore these files
+# in hugo and not repo side,
 guide1.md
 guide2.md
-# i think i need to comment this out because i wont have the theme downloaded in a different computer
-# no reason to ignore the theme file right?
+
+.DS_Store
+# obv dont track the build, git actions do it for you
+public/
