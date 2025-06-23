@@ -15,5 +15,7 @@ color = "" #color from the theme settings
 I'm really emberrassed looking at I thought was a 'brilliant' idea
 to write about.
 
-> I know that to completely erase the blog, I must also delete the
-> repo but im not going to do that.
+```
+I know that to completely erase the blog, I must also delete the
+repo but im not going to do that.
+```

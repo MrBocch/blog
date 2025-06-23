@@ -6,7 +6,7 @@
 
 # why no https on blog?
 
-baseURL = 'jorge.sh'
+baseURL = 'jorge.sh/blog'
 languageCode = 'en-us'
 title = 'jorge.sh'
 theme = "terminal"
